@@ -372,11 +372,14 @@ input::placeholder {
     font-weight: normal;
 }
 
+.swiper.swiper-initialized.swiper-horizontal.swiper-pointer-events {
+    margin-bottom: 50px;
+}
+
 .special-offers__actions {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 52px;
 }
 
 .special-offers__target {
