@@ -433,7 +433,7 @@ input::placeholder {
 
 .swiper-slide {
     width: 262px;
-    height: 335px;
+    min-height: 335px;
 }
 
 .news {
